@@ -6,7 +6,7 @@
         "id": 1,
         "image": "https://1pv2qf2te2gm20k28u30ivdc-wpengine.netdna-ssl.com/wp-content/uploads/2007/01/attention-games.jpg",
         
-        "answer": "Left"
+        "answer": "left"
       },
       {
         "question": "Which letter of the English alphabet flies, sings, and stings?",
@@ -21,7 +21,7 @@
         "title": "Family",
         "id": 3,
         "image": "null",
-        "answer": "Bob."
+        "answer": "bob"
       },
     
      {
@@ -29,56 +29,43 @@
         "title": "CIA",
         "id": 4,
         "image": "null",
-        "answer": "Secret."
+        "answer": "secret"
       },
      {
         "question": "What is always coming but never arrives?",
         "title": "No use waiting",
         "id": 5,
         "image": "null",
-        "answer": "Tomorrow."
+        "answer": "tomorrow"
       },
      {
         "question": "What goes all around town but never comes inside?",
         "title": "Around town",
         "id": 6,
         "image": "null",
-        "answer": "Street."
+        "answer": "street"
       },
-        {
-        "question": "What goes all around town but never comes inside?",
-        "title": "Around town",
-        "id": 7,
-        "image": "null",
-        "answer": "The street."
-      },
-    {
-        "question": "You are driving a bus. At the first stop, two women get on. The second stop, three men get on and one woman gets off. At the third stop, three kids and their mom get on, and a man gets off. The bus is grey, and it is raining outside. What color is the bus driver’s hair?",
-        "title": "The driver",
-        "id": 8,
-        "image": "null",
-        "answer": "Your hair color!."
-      },
+  
     {
         "question": "Mike is a butcher. He is 5’10” tall. What does he weigh?",
         "title": "Butcher",
-        "id": 9,
+        "id": 7,
         "image": "null",
-        "answer": "Meat."
+        "answer": "meat"
       },
     {
         "question": "If there are 12 fish and half of them drown, how many are there?",
         "title": "Fish",
-        "id": 10,
+        "id": 8,
         "image": "null",
         "answer": "12"
       },
         {
         "question": "I met a man with seven wives.Each wife had seven sacks,Each sack had seven cats,Each cat had seven kits.Kits, cats, sacks and wives,How many were going to St. Ives?",
         "title": "On the road",
-        "id": 11,
+        "id": 9,
         "image": "null",
-        "answer": "One."
+        "answer": "1"
       },
     
   ]
