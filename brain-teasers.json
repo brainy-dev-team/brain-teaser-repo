@@ -14,7 +14,7 @@
         "id": 2,
         "image": "null",
         "answer": "something"
-      }
+      },
     
       {
         "question": "What makes this number unique -- 8,549,176,320?",
@@ -22,7 +22,7 @@
         "id": 3,
         "image": "null",
         "answer": "It contains each number, zero through nine, in alphabetical order."
-      }
+      },
     
      {
         "question": "A palindrome is a word that reads the same when spelled backwards (eg rotavator). How could the following word be considered a palindrome? FOOTSTOOL",
@@ -30,13 +30,20 @@
         "id": 4,
         "image": "null",
         "answer": "Footstool is a palindrome when written in Morse code."
-      }
+      },
      {
         "question": "What are the next three numbers in this series? 4, 6, 12, 18, 30, 42, 60, 72, 102, 108, ?, ?, ?,",
         "title": "Guess the Pattern",
         "id": 5,
         "image": "null",
         "answer": "138, 150, 180."
-      }
+      },
+     {
+        "question": "What goes all around town but never comes inside?",
+        "title": "Around town",
+        "id": 6,
+        "image": "null",
+        "answer": "The street."
+      },
   ]
 }
